@@ -1,0 +1,9 @@
+{
+    "azureFunctions.deploySubpath": "weather-api/bin/Release/net6.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish (functions)",
+    "appService.defaultWebAppToDeploy": "/subscriptions/1fd297fc-548e-467d-a0e6-1c28d2d978c5/resourceGroups/g-12fa-takada/providers/Microsoft.Web/sites/webappstakada",
+    "appService.deploySubpath": "TFApp_before\\bin\\Publish"
+}
